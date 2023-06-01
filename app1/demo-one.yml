@@ -1,3 +1,7 @@
 tenants:
-  items:
     - id: T123456789
+      items:
+        - item-id: 111
+          tag: Onex3
+        - item-id: 222
+          tag: Twox3
